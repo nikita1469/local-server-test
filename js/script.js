@@ -44,6 +44,6 @@ function req() {
     this.remove();
 }
 
-document.querySelector('button').addEventListener('click', req, {'once': true});
+document.querySelector('button').addEventListener('click', req, {'once': true});   // 
 
 });
